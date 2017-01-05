@@ -10,7 +10,7 @@
 #define   GYR_Y                 0                              
 #define   ACC_Z                 1                              
 #define   ACC_Y                 2                              
-#define ACC (0x53)    //accelerometer address
+#define ACC (0x53)       //accelerometer address
 #define TO_READ (6)      //num of bytes to read each time (two bytes for each axis)
 #define   LINE_END              10                             // \n
 #define   SPLIT                 58                             // :
